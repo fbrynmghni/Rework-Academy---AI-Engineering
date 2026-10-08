@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# files
+Sesi 1 - Introduction to AI Architecture & System Engineering/1. Introduction to AI Architecture & System Engineering.pdf
+mentor_test_gemini.py
+
+# macOS
+.DS_Store
