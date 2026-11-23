@@ -1,0 +1,10 @@
+# Sesi 13: dua library baru
+fastapi
+uvicorn
+
+# Sudah terpasang sejak Sesi 11 dan 12 (dipakai oleh app/ai/ dan data/)
+google-genai
+python-dotenv
+numpy
+faiss-cpu
+langgraph

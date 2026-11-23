@@ -1,0 +1,5 @@
+[
+    {"ulasan": "Paket cepat sampai, kurirnya ramah banget.", "ground_truth": "pengiriman"},
+    {"ulasan": "Sumpah ini barang KW parah, jahitan lepas semua.", "ground_truth": "kualitas produk"},
+    {"ulasan": "Harga 200rb tapi dapet kualitas kaya pasar kaget, mahal bgt.", "ground_truth": "harga"}
+]

@@ -1,0 +1,9 @@
+[submodule "Assignment/data-pipeline-assignment"]
+	path = Assignment/data-pipeline-assignment
+	url = https://github.com/fbrynmghni/assignment-data-pipeline-febryan-mughni.git
+[submodule "Assignment/model-experiment-assignment"]
+	path = Assignment/model-experiment-assignment
+	url = git@github.com:fbrynmghni/model-experiment-assignment-febryan_mughni.git
+[submodule "Assignment/semantic-search-assignment"]
+	path = Assignment/semantic-search-assignment
+	url = git@github.com:fbrynmghni/assignment-semantic-search-febryan_mughni.git

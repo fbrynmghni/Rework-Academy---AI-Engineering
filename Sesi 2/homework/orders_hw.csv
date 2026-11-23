@@ -1,0 +1,201 @@
+order_id,customer,product,category,price,quantity,order_date,city
+ORD-0001,Citra Pratama,Suplemen,Kesehatan,176611,5,2024-07-22,Makassar
+ORD-0002,Indah Utami,Snack,Makanan,93381,8,2024-08-30,Makassar
+ORD-0003,Eko Santoso,Sepatu,Fashion,347289,2,2024-12-05,Medan
+ORD-0004,Lestari Permana,Suplemen,Kesehatan,63894,4,2024-09-14,Jakarta
+ORD-0005,Kartika Lestari,Biskuit,Makanan,71064,2,2024-12-03,Surabaya
+ORD-0006,Gita Rahman,Mie Instan,Makanan,55258,4,2024-08-23,Makassar
+ORD-0007,Fajar Hidayat,Suplemen,Kesehatan,81113,7,2024-07-29,Medan
+ORD-0008,Lestari Permana,Headphone,Elektronik,562913,5,2024-10-08,Yogyakarta
+ORD-0009,Joko Kartini,Vitamin C,Kesehatan,111803,4,2024-07-31,Denpasar
+ORD-0010,Citra Pratama,Snack,Makanan,58336,8,2024-10-31,Surabaya
+ORD-0011,Gita Rahman,Mie Instan,Makanan,53974,8,2024-07-14,Surabaya
+ORD-0012,Dewi Nugroho,Kopi Kemasan,Makanan,22843,3,2024-06-02,Surabaya
+ORD-0013,Lestari Permana,Vitamin C,Kesehatan,116825,4,2024-06-21,Medan
+ORD-0014,Dewi Nugroho,Biskuit,Makanan,88866,5,2024-10-02,Makassar
+ORD-0015,Dewi Nugroho,Vitamin C,Kesehatan,104003,5,2024-08-11,Surabaya
+ORD-0016,Indah Utami,Kopi Kemasan,Makanan,74909,4,2024-07-21,Makassar
+ORD-0017,Indah Utami,Jaket,Fashion,242745,6,2024-12-10,Jakarta
+ORD-0018,Lestari Permana,Suplemen,Kesehatan,191049,2,2024-07-01,Medan
+ORD-0019,Indah Utami,Headphone,Elektronik,2163629,2,2024-10-08,Surabaya
+ORD-0020,Hendra Setiawan,Jaket,Fashion,159953,2,2024-07-03,Bandung
+ORD-0021,Joko Kartini,Smartphone,Elektronik,1908532,6,2024-06-01,Bandung
+ORD-0022,Andi Saputra,Snack,Makanan,18058,2,2024-11-10,Medan
+ORD-0023,Kartika Lestari,Jaket,Fashion,316683,3,2024-09-30,Yogyakarta
+ORD-0024,Lestari Permana,Biskuit,Makanan,93139,8,2024-12-31,Medan
+ORD-0025,Joko Kartini,Masker,Kesehatan,134686,3,2024-07-24,Surabaya
+ORD-0026,Gita Rahman,Snack,Makanan,33517,6,2024-09-25,Jakarta
+ORD-0027,Fajar Hidayat,Smartphone,Elektronik,2270156,7,2024-11-16,Jakarta
+ORD-0028,Joko Kartini,Topi,Fashion,365744,8,2024-10-19,Jakarta
+ORD-0029,Fajar Hidayat,Vitamin C,Kesehatan,158643,6,2024-10-20,Semarang
+ORD-0030,Dewi Nugroho,Kaos,Fashion,492036,7,2024-06-18,Surabaya
+ORD-0031,Andi Saputra,Sepatu,Fashion,236190,5,2024-10-05,Surabaya
+ORD-0032,Hendra Setiawan,Biskuit,Makanan,74479,6,2024-07-11,Jakarta
+ORD-0033,Budi Wijaya,Powerbank,Elektronik,3971093,3,2024-10-08,Bandung
+ORD-0034,Kartika Lestari,Smartwatch,Elektronik,619952,5,2024-07-30,Bandung
+ORD-0035,Indah Utami,Snack,Makanan,37834,2,2024-09-19,Bandung
+ORD-0036,Gita Rahman,Snack,Makanan,40268,1,2024-10-10,Bandung
+ORD-0037,Gita Rahman,Topi,Fashion,308664,3,2024-12-30,Medan
+ORD-0038,Eko Santoso,Mie Instan,Makanan,68971,2,2024-09-12,Makassar
+ORD-0039,Fajar Hidayat,Snack,Makanan,41200,6,2024-07-29,Makassar
+ORD-0040,Joko Kartini,Masker,Kesehatan,100054,4,2024-09-28,Jakarta
+ORD-0041,Gita Rahman,Snack,Makanan,44453,7,2024-10-11,Surabaya
+ORD-0042,Eko Santoso,Snack,Makanan,22207,4,2024-09-27,Semarang
+ORD-0043,Dewi Nugroho,Biskuit,Makanan,46946,3,2024-10-01,Yogyakarta
+ORD-0044,Joko Kartini,Smartwatch,Elektronik,937516,3,2024-06-26,Makassar
+ORD-0045,Dewi Nugroho,Kopi Kemasan,Makanan,85842,5,2024-06-09,Semarang
+ORD-0046,Gita Rahman,Jaket,Fashion,175953,8,2024-12-29,Semarang
+ORD-0047,Hendra Setiawan,Smartphone,Elektronik,1240828,5,2024-07-04,Makassar
+ORD-0048,Dewi Nugroho,Headphone,Elektronik,1778750,5,2024-11-14,Surabaya
+ORD-0049,Kartika Lestari,Vitamin C,Kesehatan,59291,6,2024-09-14,Yogyakarta
+ORD-0050,Indah Utami,Snack,Makanan,12633,5,2024-09-06,Surabaya
+ORD-0051,Citra Pratama,Mie Instan,Makanan,38574,3,2024-11-27,Makassar
+ORD-0052,Citra Pratama,Jaket,Fashion,428929,4,2024-08-04,Jakarta
+ORD-0053,Gita Rahman,Smartwatch,Elektronik,682388,8,2024-07-10,Semarang
+ORD-0054,Hendra Setiawan,Mie Instan,Makanan,48162,8,2024-11-21,Denpasar
+ORD-0055,Kartika Lestari,Powerbank,Elektronik,1970649,7,2024-11-14,Denpasar
+ORD-0056,Indah Utami,Biskuit,Makanan,57676,3,2024-06-17,Semarang
+ORD-0057,Citra Pratama,Topi,Fashion,319628,6,2024-11-07,Jakarta
+ORD-0058,Lestari Permana,Kaos,Fashion,296818,1,2024-08-12,Bandung
+ORD-0059,Kartika Lestari,Smartwatch,Elektronik,4280169,4,2024-10-13,Medan
+ORD-0060,Kartika Lestari,Mie Instan,Makanan,73994,5,2024-10-27,Jakarta
+ORD-0061,Kartika Lestari,Topi,Fashion,448489,4,2024-08-19,Yogyakarta
+ORD-0062,Fajar Hidayat,Kopi Kemasan,Makanan,28357,5,2024-08-28,Yogyakarta
+ORD-0063,Andi Saputra,Sepatu,Fashion,82983,6,2024-12-10,Yogyakarta
+ORD-0064,Citra Pratama,Sepatu,Fashion,497931,8,2024-10-14,Jakarta
+ORD-0065,Budi Wijaya,Topi,Fashion,409763,5,2024-09-09,Jakarta
+ORD-0066,Dewi Nugroho,Suplemen,Kesehatan,59903,3,2024-09-02,Jakarta
+ORD-0067,Fajar Hidayat,Masker,Kesehatan,89955,2,2024-08-27,Denpasar
+ORD-0068,Andi Saputra,Biskuit,Makanan,92181,8,2024-07-22,Surabaya
+ORD-0069,Indah Utami,Smartwatch,Elektronik,4554194,7,2024-10-06,Denpasar
+ORD-0070,Andi Saputra,Topi,Fashion,421042,2,2024-08-08,Bandung
+ORD-0071,Kartika Lestari,Mie Instan,Makanan,19208,6,2024-12-20,Denpasar
+ORD-0072,Lestari Permana,Masker,Kesehatan,193584,7,2024-12-03,Makassar
+ORD-0073,Budi Wijaya,Kopi Kemasan,Makanan,42744,7,2024-07-12,Surabaya
+ORD-0074,Andi Saputra,Kaos,Fashion,216483,1,2024-06-28,Yogyakarta
+ORD-0075,Dewi Nugroho,Jaket,Fashion,345545,5,2024-12-17,Bandung
+ORD-0076,Andi Saputra,Sepatu,Fashion,263267,2,2024-10-13,Yogyakarta
+ORD-0077,Budi Wijaya,Sepatu,Fashion,207524,1,2024-12-24,Makassar
+ORD-0078,Joko Kartini,Vitamin C,Kesehatan,230093,1,2024-11-21,Surabaya
+ORD-0079,Eko Santoso,Kopi Kemasan,Makanan,70349,4,2024-09-02,Denpasar
+ORD-0080,Citra Pratama,Headphone,Elektronik,3220494,2,2024-10-29,Bandung
+ORD-0081,Budi Wijaya,Suplemen,Kesehatan,47504,4,2024-06-01,Bandung
+ORD-0082,Kartika Lestari,Topi,Fashion,185086,4,2024-07-30,Denpasar
+ORD-0083,Joko Kartini,Suplemen,Kesehatan,45541,7,2024-12-12,Makassar
+ORD-0084,Kartika Lestari,Snack,Makanan,41780,6,2024-12-07,Medan
+ORD-0085,Hendra Setiawan,Kaos,Fashion,439534,3,2024-08-10,Makassar
+ORD-0086,Kartika Lestari,Topi,Fashion,284083,3,2024-09-07,Makassar
+ORD-0087,Joko Kartini,Suplemen,Kesehatan,55955,5,2024-10-18,Semarang
+ORD-0088,Fajar Hidayat,Kaos,Fashion,405804,6,2024-06-21,Yogyakarta
+ORD-0089,Budi Wijaya,Suplemen,Kesehatan,75235,3,2024-10-12,Surabaya
+ORD-0090,Budi Wijaya,Suplemen,Kesehatan,183622,7,2024-09-28,Makassar
+ORD-0091,Hendra Setiawan,Masker,Kesehatan,175295,6,2024-11-05,Medan
+ORD-0092,Dewi Nugroho,Topi,Fashion,89223,8,2024-12-08,Yogyakarta
+ORD-0093,Eko Santoso,Headphone,Elektronik,2696969,4,2024-07-27,Makassar
+ORD-0094,Fajar Hidayat,Suplemen,Kesehatan,208131,2,2024-09-26,Semarang
+ORD-0095,Andi Saputra,Snack,Makanan,72458,4,2024-11-12,Semarang
+ORD-0096,Gita Rahman,Suplemen,Kesehatan,46856,3,2024-10-02,Makassar
+ORD-0097,Eko Santoso,Mie Instan,Makanan,21924,3,2024-07-19,Bandung
+ORD-0098,Joko Kartini,Smartwatch,Elektronik,2232133,3,2024-07-11,Bandung
+ORD-0099,Gita Rahman,Snack,Makanan,80152,6,2024-08-19,Yogyakarta
+ORD-0100,Hendra Setiawan,Snack,Makanan,67756,4,2024-12-13,Makassar
+ORD-0101,Budi Wijaya,Suplemen,Kesehatan,215473,1,2024-06-10,Makassar
+ORD-0102,Citra Pratama,Snack,Makanan,15953,2,2024-10-30,Surabaya
+ORD-0103,Budi Wijaya,Jaket,Fashion,137084,2,2024-08-26,Jakarta
+ORD-0104,Indah Utami,Headphone,Elektronik,4715748,8,2024-07-20,Denpasar
+ORD-0105,Andi Saputra,Sepatu,Fashion,459599,6,2024-09-08,Semarang
+ORD-0106,Budi Wijaya,Smartwatch,Elektronik,3509679,6,2024-09-13,Medan
+ORD-0107,Citra Pratama,Vitamin C,Kesehatan,100313,2,2024-07-12,Medan
+ORD-0108,Indah Utami,Snack,Makanan,62100,3,2024-08-30,Medan
+ORD-0109,Gita Rahman,Kaos,Fashion,171594,4,2024-12-24,Jakarta
+ORD-0110,Budi Wijaya,Snack,Makanan,75146,6,2024-11-18,Makassar
+ORD-0111,Andi Saputra,Kaos,Fashion,218582,4,2024-12-09,Yogyakarta
+ORD-0112,Joko Kartini,Vitamin C,Kesehatan,189483,1,2024-10-26,Medan
+ORD-0113,Indah Utami,Headphone,Elektronik,4536039,5,2024-12-11,Denpasar
+ORD-0114,Kartika Lestari,Sepatu,Fashion,103606,1,2024-09-24,Makassar
+ORD-0115,Gita Rahman,Biskuit,Makanan,18193,2,2024-07-15,Yogyakarta
+ORD-0116,Citra Pratama,Kopi Kemasan,Makanan,83148,6,2024-10-06,Medan
+ORD-0117,Gita Rahman,Headphone,Elektronik,3558724,6,2024-07-06,Jakarta
+ORD-0118,Citra Pratama,Suplemen,Kesehatan,119613,2,2024-07-28,Medan
+ORD-0119,Citra Pratama,Mie Instan,Makanan,10914,8,2024-09-04,Makassar
+ORD-0120,Fajar Hidayat,Suplemen,Kesehatan,38385,1,2024-08-11,Jakarta
+ORD-0121,Andi Saputra,Vitamin C,Kesehatan,161081,4,2024-11-04,Medan
+ORD-0122,Citra Pratama,Suplemen,Kesehatan,157151,1,2024-12-07,Bandung
+ORD-0123,Andi Saputra,Smartphone,Elektronik,4502472,1,2024-12-23,Semarang
+ORD-0124,Gita Rahman,Kopi Kemasan,Makanan,75873,1,2024-10-16,Bandung
+ORD-0125,Joko Kartini,Topi,Fashion,112564,1,2024-06-17,Yogyakarta
+ORD-0126,Budi Wijaya,Smartphone,Elektronik,3979468,5,2024-12-17,Bandung
+ORD-0127,Joko Kartini,Smartwatch,Elektronik,4627621,1,2024-10-01,Denpasar
+ORD-0128,Budi Wijaya,Masker,Kesehatan,125604,3,2024-07-19,Makassar
+ORD-0129,Hendra Setiawan,Jaket,Fashion,180715,4,2024-06-13,Semarang
+ORD-0130,Gita Rahman,Kopi Kemasan,Makanan,68283,6,2024-12-07,Jakarta
+ORD-0131,Andi Saputra,Vitamin C,Kesehatan,100050,6,2024-07-04,Yogyakarta
+ORD-0132,Hendra Setiawan,Kaos,Fashion,141035,5,2024-11-26,Medan
+ORD-0133,Eko Santoso,Vitamin C,Kesehatan,221430,8,2024-07-24,Medan
+ORD-0134,Lestari Permana,Suplemen,Kesehatan,33878,1,2024-06-27,Makassar
+ORD-0135,Kartika Lestari,Smartphone,Elektronik,4037925,4,2024-07-17,Semarang
+ORD-0136,Joko Kartini,Masker,Kesehatan,232983,7,2024-08-05,Jakarta
+ORD-0137,Andi Saputra,Vitamin C,Kesehatan,181388,8,2024-12-29,Yogyakarta
+ORD-0138,Hendra Setiawan,Smartwatch,Elektronik,2083042,3,2024-06-10,Makassar
+ORD-0139,Budi Wijaya,Mie Instan,Makanan,82875,6,2024-09-18,Semarang
+ORD-0140,Kartika Lestari,Suplemen,Kesehatan,214694,2,2024-12-12,Semarang
+ORD-0141,Budi Wijaya,Masker,Kesehatan,219049,7,2024-10-03,Bandung
+ORD-0142,Kartika Lestari,Biskuit,Makanan,55300,7,2024-06-15,Bandung
+ORD-0143,Hendra Setiawan,Powerbank,Elektronik,4427918,4,2024-06-03,Bandung
+ORD-0144,Budi Wijaya,Smartphone,Elektronik,3323532,6,2024-10-11,Medan
+ORD-0145,Andi Saputra,Smartphone,Elektronik,1045837,2,2024-06-28,Yogyakarta
+ORD-0146,Joko Kartini,Smartphone,Elektronik,1997839,5,2024-08-10,Jakarta
+ORD-0147,Hendra Setiawan,Vitamin C,Kesehatan,197517,7,2024-09-29,Yogyakarta
+ORD-0148,Dewi Nugroho,Biskuit,Makanan,64103,2,2024-09-22,Bandung
+ORD-0149,Hendra Setiawan,Smartphone,Elektronik,4071502,1,2024-07-14,Surabaya
+ORD-0150,Citra Pratama,Jaket,Fashion,117131,6,2024-06-11,Medan
+ORD-0151,Andi Saputra,Suplemen,Kesehatan,52655,8,2024-12-10,Jakarta
+ORD-0152,Andi Saputra,Masker,Kesehatan,120849,7,2024-08-06,Yogyakarta
+ORD-0153,Hendra Setiawan,Topi,Fashion,419513,3,2024-06-04,Surabaya
+ORD-0154,Indah Utami,Mie Instan,Makanan,58695,8,2024-11-29,Makassar
+ORD-0155,Dewi Nugroho,Snack,Makanan,20310,7,2024-06-07,Semarang
+ORD-0156,Budi Wijaya,Vitamin C,Kesehatan,106349,8,2024-06-12,Makassar
+ORD-0157,Fajar Hidayat,Vitamin C,Kesehatan,54913,5,2024-06-25,Medan
+ORD-0158,Andi Saputra,Masker,Kesehatan,215324,6,2024-09-23,Makassar
+ORD-0159,Fajar Hidayat,Topi,Fashion,397000,7,2024-09-06,Denpasar
+ORD-0160,Budi Wijaya,Biskuit,Makanan,38053,6,2024-07-19,Medan
+ORD-0161,Fajar Hidayat,Snack,Makanan,30220,3,2024-12-07,Denpasar
+ORD-0162,Fajar Hidayat,Sepatu,Fashion,153058,1,2024-09-27,Medan
+ORD-0163,Fajar Hidayat,Headphone,Elektronik,2494309,7,2024-08-20,Yogyakarta
+ORD-0164,Hendra Setiawan,Smartwatch,Elektronik,4997973,8,2024-09-09,Jakarta
+ORD-0165,Dewi Nugroho,Kaos,Fashion,336233,6,2024-10-25,Surabaya
+ORD-0166,Andi Saputra,Mie Instan,Makanan,48479,5,2024-07-14,Surabaya
+ORD-0167,Fajar Hidayat,Snack,Makanan,30858,8,2024-11-14,Jakarta
+ORD-0168,Joko Kartini,Smartphone,Elektronik,1124894,2,2024-09-01,Yogyakarta
+ORD-0169,Lestari Permana,Masker,Kesehatan,56714,6,2024-08-17,Surabaya
+ORD-0170,Gita Rahman,Suplemen,Kesehatan,35834,3,2024-10-08,Bandung
+ORD-0171,Lestari Permana,Mie Instan,Makanan,97026,1,2024-07-26,Surabaya
+ORD-0172,Budi Wijaya,Headphone,Elektronik,3981176,2,2024-10-14,Makassar
+ORD-0173,Lestari Permana,Kopi Kemasan,Makanan,23946,5,2024-06-21,Medan
+ORD-0174,Lestari Permana,Mie Instan,Makanan,92472,2,2024-11-10,Jakarta
+ORD-0175,Joko Kartini,Smartphone,Elektronik,762968,5,2024-06-24,Surabaya
+ORD-0176,Indah Utami,Smartwatch,Elektronik,4399614,4,2024-10-08,Bandung
+ORD-0177,Andi Saputra,Snack,Makanan,29883,5,2024-06-18,Bandung
+ORD-0178,Eko Santoso,Biskuit,Makanan,89334,5,2024-06-22,Jakarta
+ORD-0179,Dewi Nugroho,Kopi Kemasan,Makanan,93925,5,2024-10-09,Bandung
+ORD-0180,Budi Wijaya,Suplemen,Kesehatan,148070,5,2024-11-19,Surabaya
+ORD-0181,Gita Rahman,Smartphone,Elektronik,4316581,5,2024-11-06,Makassar
+ORD-0182,Joko Kartini,Sepatu,Fashion,301739,1,2024-10-12,Surabaya
+ORD-0183,Kartika Lestari,Kopi Kemasan,Makanan,96813,8,2024-11-27,Surabaya
+ORD-0184,Joko Kartini,Masker,Kesehatan,145179,8,2024-12-18,Surabaya
+ORD-0185,Fajar Hidayat,Powerbank,Elektronik,739460,4,2024-10-21,Bandung
+ORD-0186,Lestari Permana,Topi,Fashion,405852,6,2024-10-21,Makassar
+ORD-0187,Andi Saputra,Smartphone,Elektronik,3680103,5,2024-08-28,Denpasar
+ORD-0188,Dewi Nugroho,Sepatu,Fashion,480935,4,2024-10-31,Makassar
+ORD-0189,Gita Rahman,Headphone,Elektronik,1274713,4,2024-12-12,Jakarta
+ORD-0190,Dewi Nugroho,Topi,Fashion,158469,5,2024-06-25,Denpasar
+ORD-0191,Eko Santoso,Kopi Kemasan,Makanan,54137,4,2024-07-31,Denpasar
+ORD-0192,Joko Kartini,Vitamin C,Kesehatan,77631,6,2024-12-25,Semarang
+ORD-0193,Budi Wijaya,Smartphone,Elektronik,4274212,2,2024-09-18,Semarang
+ORD-0194,Budi Wijaya,Kaos,Fashion,284771,2,2024-10-27,Surabaya
+ORD-0195,Gita Rahman,Sepatu,Fashion,199435,6,2024-08-20,Bandung
+ORD-0196,Indah Utami,Snack,Makanan,54589,8,2024-07-08,Surabaya
+ORD-0197,Kartika Lestari,Vitamin C,Kesehatan,113672,4,2024-08-04,Semarang
+ORD-0198,Kartika Lestari,Smartwatch,Elektronik,2631672,4,2024-08-17,Jakarta
+ORD-0199,Indah Utami,Smartwatch,Elektronik,2134908,1,2024-06-26,Surabaya
+ORD-0200,Andi Saputra,Kaos,Fashion,448872,3,2024-09-14,Bandung

@@ -5,21 +5,32 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "asyncio>=4.0.0",
     "datasets>=5.0.1",
+    "faiss-cpu>=1.16.0",
+    "fastapi>=0.165.0",
+    "gensim>=4.4.0",
     "google-genai>=2.29.0",
     "google-generativeai>=0.8.6",
+    "langchain>=1.5.0",
+    "langchain-classic>=1.0.8",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.8.0",
     "matplotlib>=3.11.2",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "python-dotenv>=1.2.4",
+    "rank-bm25>=0.2.2",
     "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
+    "sentence-transformers>=6.2.0",
     "tokenizers>=0.23.2",
     "torch>=2.14.1",
     "torchaudio>=2.11.0",
     "torchvision>=0.29.1",
     "transformers>=5.18.0",
+    "uvicorn[standard]>=0.54.0",
 ]
 
 [dependency-groups]

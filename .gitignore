@@ -1,21 +1,66 @@
 # Python-generated files
 __pycache__/
-*.py[oc]
+*.py[cod]
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-info/
 
 # Virtual environments
 .venv/
-.env/
+
+# Environment variables and secrets
 .env
 .env.*
 
-# files
+# Postman
+.postman
+postman
+
+# Sesi 1
 Sesi 1/1. Introduction to AI Architecture & System Engineering.pdf
 Sesi 1/mentor_test_gemini.py
 
+# Sesi 2
+Sesi 2/2. Python for AI_ Core Programming & Logic.pdf
+
+# Sesi 3
+Sesi 3/3. Data Engineering Pipeline & Preparation.pdf
+Sesi 3/Completed Code
+
+# Sesi 4
+Sesi 4/4. Applied Machine Learning & Model Evaluation.pdf
+
+# Sesi 5
+Sesi 5/5. Applied Deep Learning & The Road to Foundation Models.pdf
+
+# Sesi 6 
+Sesi 6/6. Transformer Architecture & LLM Fundamentals.pdf
+
+# Sesi 7
+Sesi 7/7. Text Embeddings & Semantic Representation.pdf
+
+# Sesi 8
+Sesi 8/8. Vector Databases & Semantic Search Implementation A.pdf
+
+# Sesi 9
+Sesi 9/9. Navigating the LLM Ecosystem & Hugging Face.pdf
+
+# Sesi 10
+Sesi 10/10. Advanced Prompt Engineering and Context Management.pdf
+
+# Sesi 11
+Sesi 11/11. Building Retrieval-Augmented Generation (RAG).pdf
+Sesi 11/Completed Code
+
+# Sesi 12
+Sesi 12/12. AI Orchestration & Multi-Agent Workflows.pdf
+Sesi 12/Completed Code
+
+# Sesi 13
+Sesi 13/13. Developing AI Backend & API Services.pdf
+Sesi 13/Completed Codes
+
 # macOS
 .DS_Store
-
+**/.DS_Store
